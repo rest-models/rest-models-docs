@@ -34,6 +34,6 @@ Rest modules have only two dependencies:
 
 Rest Models library is recommended to use just with REST APIs and we strongly discourage using it on different types of API. To learn more about REST APIs, [follow this link.](https://restfulapi.net/)
 
-Rest Models works using Models and Collections to make devs life easier.
+Rest Models works using Models and Collections to make dev's life easier.
 
 Models basically are classes with some util methods that get your work easier on interacting to external REST API data.
